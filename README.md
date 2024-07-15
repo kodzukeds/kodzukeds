@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kodzukeds
-- 📫 How to reach me: edumunoz2002@gmail.com
 - 😄 Pronouns: they/them
 
 <!---
