@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kodzukeds
+- 👋 Hi, I’m Edu (@kodzukeds)
 - 😄 Pronouns: they/them
 
 <!---
