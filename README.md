@@ -3,7 +3,7 @@
 
 Welcome to my GitHub page! Feel free to explore my work, experience, and professional background through the links below:
 
-- 🔗 [**Portfolio**](https://github.com/kodzukeds/kodzukeds/projects)
+- 🔗 [**Portfolio**](https://github.com/kodzukeds?tab=repositories)
 - 📄 [**Curriculum Vitae (CV)**](https://www.canva.com/design/DAG3R0RpRWk/T1EC73lePXB1iKmaxFZClg/view?utm_content=DAG3R0RpRWk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08b53af086)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/edu-mu%C3%B1oz-ab9b1a22b/)
 
